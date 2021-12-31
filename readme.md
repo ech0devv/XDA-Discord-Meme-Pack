@@ -6,7 +6,7 @@ How to use:
 
   Android:
   
-    1. Install [EweSticker](https://github.com/FredHappyface/Android.EweSticker/releases/latest)
+    1. Install EweSticker from https://github.com/FredHappyface/Android.EweSticker/releases/latest
     
     2. Download this repository as a ZIP and extract it into a folder
     
